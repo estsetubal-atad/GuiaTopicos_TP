@@ -4,6 +4,9 @@
 
 Slides `1 ~ 13`
 
+> Ver [animação do algoritmo bubble sort](https://www.youtube.com/shorts/VxD5ENIH1rY).  
+> Ver [animação do algoritmo selection sort](https://www.youtube.com/shorts/nadI4BM0Bvw).  
+
 > Com tradução de pseudo-código para funções em C.
 
 ### Exploração por LLM
@@ -31,6 +34,12 @@ Consulte a página da [wikipedia](https://en.wikipedia.org/wiki/Sorting_algorith
 ### Quiz em Aula
 
 Responder às questões dos Quiz (varrimentos).
+
+### Exercício prático
+
+Na sequência do Quiz (Bubble Sort), sobre a sequência `{ 5, 3, 17, 4, 1, 14 }`: Qual o estado do array após o **3º varrimento** do algoritmo? 
+
+> Dependendo do tempo disponível, iniciar Ficha 4.
 
 ### Quiz Moodle
 
