@@ -38,6 +38,6 @@ Assíncrono.
 
 ### TPC
 
-Elaborar/terminar Ficha 3 (disponível no Moodle).
+Elaborar/terminar Ficha 4 (disponível no Moodle).
 
 
