@@ -23,6 +23,7 @@ Slides `15 ~ 24`
 > Ver [animação do algoritmo bubble sort](https://www.youtube.com/shorts/VxD5ENIH1rY).  
 > Ver [animação do algoritmo selection sort](https://www.youtube.com/shorts/nadI4BM0Bvw).  
 > Com tradução de pseudo-código para funções em C.
+> - Como deve ser modificado o algoritmo *bubble sort* para terminar quando num varrimento não ocorrerem trocas (sequência já ordenada)?
 
 ### Comparação de algoritmos
 
