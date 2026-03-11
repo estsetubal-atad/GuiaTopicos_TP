@@ -4,9 +4,6 @@
 
 Slides `1 ~ 13`
 
-> Ver [animação do algoritmo bubble sort](https://www.youtube.com/shorts/VxD5ENIH1rY).  
-> Ver [animação do algoritmo selection sort](https://www.youtube.com/shorts/nadI4BM0Bvw).  
-
 > Com tradução de pseudo-código para funções em C.
 
 ### Exploração por LLM
@@ -23,6 +20,8 @@ Qual a complexidade algorítmica de uma pesquisa sequencial? É possível, numa 
 
 Slides `15 ~ 24`
 
+> Ver [animação do algoritmo bubble sort](https://www.youtube.com/shorts/VxD5ENIH1rY).  
+> Ver [animação do algoritmo selection sort](https://www.youtube.com/shorts/nadI4BM0Bvw).  
 > Com tradução de pseudo-código para funções em C.
 
 ### Comparação de algoritmos
