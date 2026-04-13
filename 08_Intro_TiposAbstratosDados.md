@@ -62,6 +62,6 @@ Assíncrono
 
 ### TPC 
 
-Finalizar exercícios do ADT Time.
+Finalizar exercícios do ADT Time (repositório e/ou slides).
 
 
